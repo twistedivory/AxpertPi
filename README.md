@@ -35,7 +35,7 @@ sudo nano config/inverter.conf
 
 # These settings are specif to an Axpert King 5Kw, please change for your inverter if different. See Point 10 below.
 # This allows you to modify the buffersize for the qpiri command
-qpiri=104
+qpiri=103
 
 # This allows you to modify the buffersize for the qpiws command
 qpiws=40
